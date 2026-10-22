@@ -1,0 +1,15 @@
+{
+    "name": "SpidoznajaKozavka",
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "SpidoznajaKozavka": {
+                "$className": "Folder",
+                "$path": "src",
+                "Packages": {
+                    "$path": "Packages"
+                }
+            }
+        }
+    }
+}

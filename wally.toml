@@ -1,0 +1,13 @@
+[package]
+name = "coffilhg/spidoznajakozavka"
+version = "0.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "dev"
+
+[dependencies]
+GreatUIButton = "coffilhg/greatuibutton@0.0.0"
+LemonSignal = "data-oriented-house/lemonsignal@2.0.0"
+NamespaceSync = "coffilhg/namespacesync@0.0.1"
+Vide = "centau/vide@0.4.1"
+RichGradient = "coffilhg/richgradient@0.0.0"
+Reaction = "coffilhg/modulenamelowercase@1.0.0"

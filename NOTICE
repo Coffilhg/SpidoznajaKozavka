@@ -1,0 +1,42 @@
+SpidoznajaKozavka
+Copyright © 2026 @Coffilhg (Roblox UserId 517222346)
+
+This software depends on software developed by (and vendors or redistributes it)
+- Coffilhg
+    - NamespaceSync (MPL-2.0): https://github.com/Coffilhg/Useful-Modules/tree/NamespaceSync
+    - GreatUIButton (MPL-2.0): https://github.com/Coffilhg/Useful-Modules/tree/GreatUIButton
+    - RichGradient (MPL-2.0): https://github.com/Coffilhg/Useful-Modules/tree/RichGradient
+    - Reaction (MPL-2.0): https://github.com/Coffilhg/Useful-Modules/tree/Reaction
+- Data-Oriented-House
+	- LemonSignal (MIT License): https://github.com/Data-Oriented-House/LemonSignal
+- centau
+	- Vide (MIT License): https://github.com/centau/vide
+- Any associated nested transitive dependencies of the above modules (AUTOMATICALLY VENDORED OR REDISTRIBUTED)
+
+
+
+## Files authored by Coffilhg
+
+Unless a file contains an explicit license header stating otherwise, files authored by @Coffilhg and included in SpidoznajaKozavka are dedicated to the public domain under the Unlicense.
+
+If a file authored by @Coffilhg contains a license header, the license stated in that header applies to that file instead. The license header and any accompanying copyright or attribution notices must be preserved in accordance with the terms stated therein.
+
+This policy applies only to files authored by @Coffilhg. It does not apply to third-party dependencies or to files originating from dependencies.
+
+
+
+## Third-Party and Nested Dependencies
+
+SpidoznajaKozavka may vendor and/or redistribute dependencies of the projects listed above, including nested and transitive dependencies.
+
+Third-party dependencies, including nested and transitive dependencies, retain their respective original licenses, copyright notices, attribution requirements, and other applicable terms. They are not subject to the file-licensing policy described above and are not relicensed under SpidoznajaKozavka's Unlicense license merely because they are distributed with SpidoznajaKozavka.
+
+The license of a third-party dependency is determined by its own license file, license header, or accompanying licensing information.
+
+
+
+## Main License
+
+SpidoznajaKozavka itself is licensed under the Unlicense License, alongside the SpidoznajaKozavka License Exception.
+
+For the complete licensing terms applicable to SpidoznajaKozavka itself, see the accompanying [LICENSE](<LICENSE>) file.

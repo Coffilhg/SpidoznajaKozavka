@@ -1,0 +1,14 @@
+{
+    "name": "syncpackages",
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "src": {
+                "$className": "Folder",
+                "Packages": {
+                    "$path": "Packages"
+                }
+            }
+        }
+    }
+}
